@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OOP\\Lab08\\Lab08-CSharp-Class-Part-I-1\\Lab08_Ex01\\Lab08_Ex01.csproj",
+      "projectUniqueName": "D:\\OOP\\Lab08\\Lab08-CSharp-Class-Part-I-2\\Lab08_Ex01\\Lab08_Ex01.csproj",
       "projectName": "Lab08_Ex01",
-      "projectPath": "D:\\OOP\\Lab08\\Lab08-CSharp-Class-Part-I-1\\Lab08_Ex01\\Lab08_Ex01.csproj",
+      "projectPath": "D:\\OOP\\Lab08\\Lab08-CSharp-Class-Part-I-2\\Lab08_Ex01\\Lab08_Ex01.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\OOP\\Lab08\\Lab08-CSharp-Class-Part-I-1\\Lab08_Ex01\\obj\\",
+      "outputPath": "D:\\OOP\\Lab08\\Lab08-CSharp-Class-Part-I-2\\Lab08_Ex01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
